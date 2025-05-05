@@ -187,6 +187,10 @@ figure.effect-oscar:hover p {
 	color:#fff;
 }
 
+
+
+
+
 figure.effect-oscar:hover figcaption {
 	background-color: rgba(58,52,42,0);
 }
@@ -792,7 +796,7 @@ img {
 
 
 .client_logos {
-    background: #11D25D;
+    background: #0de756;
     padding: 60px 0;
     margin-top: 60px;
 }
@@ -1228,7 +1232,7 @@ transition: all .3s;
     width: 175px;
     height: 50px;
     letter-spacing: 0px;
-    background: #15BA57;
+    background: #2804c4;
     border-radius: 3px;
     color: #ffffff;
     font-size: 16px;
